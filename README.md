@@ -1,3 +1,11 @@
-Mocha Coffee Browser Boilerplate
-================================
-Boiler plate for Mocha browser tests.
+Javascript Boilerplate
+======================
+
+# Install grunt
+`npm install grunt -g`
+
+# Install dependencies
+`npm install`
+
+# Run the tests
+`grunt test`
