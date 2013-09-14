@@ -2,7 +2,7 @@ Javascript Boilerplate
 ======================
 
 ## Install grunt
-`npm install grunt -g`
+`npm install grunt-cli -g`
 
 ## Install dependencies
 `npm install`
